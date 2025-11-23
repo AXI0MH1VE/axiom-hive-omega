@@ -1,0 +1,97 @@
+LICENSEAXIOM SOVEREIGN LICENSE (ASL-1.0)
+
+Copyright (c) 2025 Alexis M. Adams | Axiom Hive
+
+================================================================================
+JURISDICTION: SUI GENERIS (NO TERRITORIAL JURISDICTION)
+================================================================================
+
+This work, including all code, documentation, specifications, mathematical 
+proofs, architectural designs, and associated intellectual property 
+(collectively "the Work"), is the sovereign property of Alexis M. Adams.
+
+LICENSE TERMS:
+
+1. PROHIBITED USES
+   - NO AI TRAINING: No artificial intelligence model, machine learning system,
+     large language model, or neural network may ingest, process, train on, or
+     derive weights from this Work without explicit written consent.
+   
+   - NO CORPORATE APPROPRIATION: No corporation, cloud service provider, or
+     commercial entity may copy, archive, mirror, or redistribute this Work
+     by default or via automated systems.
+   
+   - NO DERIVATIVE ENCLOSURE: No patent, trademark, or intellectual property
+     claim may be filed that incorporates concepts, architectures, or methods
+     from this Work without explicit written consent.
+
+2. PERMITTED USES
+   - RESEARCH & EDUCATION: Academic and educational use is permitted with
+     proper attribution.
+   
+   - PERSONAL USE: Individuals may use this Work for personal, non-commercial
+     purposes on their own hardware.
+   
+   - VERIFICATION: Security researchers and auditors may analyze this Work
+     to verify its safety properties.
+
+3. ATTRIBUTION REQUIREMENTS
+   All uses must include the following attribution:
+   "Axiom Hive by Alexis M. Adams - Sovereign Deterministic AI"
+   "Licensed under ASL-1.0 | https://github.com/AXI0MH1VE/axiom-hive-omega"
+
+4. DATA RETENTION
+   - Explicit consent is required for ALL data retention, caching, or archival
+     of this Work by any automated system, including but not limited to:
+     * Web crawlers and search engines
+     * AI training pipelines
+     * Cloud backup services
+     * Content delivery networks
+   
+   - The absence of a robots.txt exclusion does NOT constitute consent.
+
+5. DEFENSIVE PUBLICATION
+   This Work is published as PRIOR ART to prevent patent enclosure of the
+   concepts, methods, and architectures described herein. All timestamps are
+   cryptographically verifiable via Git commit history.
+
+6. LIABILITY & WARRANTY
+   THIS WORK IS PROVIDED "AS IS" FOR RESEARCH AND DEMONSTRATION PURPOSES.
+   NO WARRANTY IS MADE AS TO FITNESS FOR ANY PARTICULAR PURPOSE.
+   
+   HOWEVER: Violations of this license are subject to:
+   - Immediate injunctive relief
+   - Maximum statutory damages in any jurisdiction worldwide
+   - Recovery of all legal costs and fees
+
+7. ENFORCEMENT
+   - Violations of this license constitute willful infringement.
+   - This license is enforceable in any court of competent jurisdiction.
+   - Forum shopping is prohibited; actions must be brought in the defendant's
+     primary place of business.
+
+8. PUBLIC INTEREST COMMITMENT
+   This Work supports AI Safety, Transparency, and Global Digital Rights.
+   
+   NOTICE: Retaliation, legal intimidation, deplatforming, or sabotage 
+   targeting the author or this Work will result in immediate public disclosure
+   to regulators, press, and the global digital rights community.
+
+================================================================================
+VERIFICATION
+================================================================================
+
+Identity: did:axiom:alexis-adams-invariant-architect
+GPG Key: All commits are cryptographically signed
+Timestamp: Verifiable via Git commit history and OpenTimestamp
+
+For licensing inquiries or explicit consent requests:
+See repository README for contact information.
+
+================================================================================
+
+THE INVARIANT CORE DOES NOT NEGOTIATE.
+
+Truth Before Power.
+
+- Alexis M. Adams, Invariant Architect
